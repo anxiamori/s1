@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\oop\\s1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD866A-83EE-4A0F-8879-0491F29A34E3}|s1\\s1.csproj|C:\\oop\\s1\\s1\\patientschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD866A-83EE-4A0F-8879-0491F29A34E3}|s1\\s1.csproj|solutionrelative:s1\\patientschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD866A-83EE-4A0F-8879-0491F29A34E3}|s1\\s1.csproj|C:\\oop\\s1\\s1\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD866A-83EE-4A0F-8879-0491F29A34E3}|s1\\s1.csproj|solutionrelative:s1\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBD866A-83EE-4A0F-8879-0491F29A34E3}|s1\\s1.csproj|C:\\oop\\s1\\s1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBD866A-83EE-4A0F-8879-0491F29A34E3}|s1\\s1.csproj|solutionrelative:s1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientSchedule.cs",
+              "DocumentMoniker": "C:\\oop\\s1\\s1\\PatientSchedule.cs",
+              "RelativeDocumentMoniker": "s1\\PatientSchedule.cs",
+              "ToolTip": "C:\\oop\\s1\\s1\\PatientSchedule.cs",
+              "RelativeToolTip": "s1\\PatientSchedule.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAwFEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:29:04.996Z",
+              "EditorCaption": "",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\oop\\s1\\s1\\Appointment.cs",
+              "RelativeDocumentMoniker": "s1\\Appointment.cs",
+              "ToolTip": "C:\\oop\\s1\\s1\\Appointment.cs",
+              "RelativeToolTip": "s1\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:28:34.318Z",
+              "OwnerCaption": "%2"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\oop\\s1\\s1\\Program.cs",
+              "RelativeDocumentMoniker": "s1\\Program.cs",
+              "ToolTip": "C:\\oop\\s1\\s1\\Program.cs",
+              "RelativeToolTip": "s1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-26T12:27:14.991Z",
+              "OwnerCaption": "%2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
